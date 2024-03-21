@@ -1,0 +1,2 @@
+
+"Command Line Calculator: A simple yet powerful calculator built with TypeScript and Node.js, offering an intuitive command line interface for quick calculations. Utilizing the Inquirer.js library for user interaction, this calculator allows users to perform basic arithmetic operations with ease. Whether you're a developer looking for a convenient tool or a student needing a quick solution, this calculator provides a seamless experience for all your calculation needs. Dive into the codebase to explore the simplicity and efficiency of TypeScript in action."
